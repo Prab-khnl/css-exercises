@@ -1,0 +1,20 @@
+.general {
+    background-color:hsl(0, 100%, 88%);
+    font-family:Verdana, Dejavu Sans, sans-serif
+
+}
+
+#second {
+    color:hsl(240, 100%, 50%);
+    font-size:36px;
+}
+
+.general.cool {
+    font-size:24px;
+}
+
+#fourth {
+    background-color: hsl(120, 73%, 75%);
+    font-size:24px;
+    font-weight:bold;
+}
