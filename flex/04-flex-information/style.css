@@ -24,3 +24,32 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+.bigbox {
+  display:flex;
+  height:900px;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  gap: 32px;
+  
+}
+  
+
+  .images {
+    display:flex;
+    justify-content: space-around;
+    gap:52px;
+
+  }
+ 
+
+
+.one {
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  flex: 1 1 auto;
+  
+}
